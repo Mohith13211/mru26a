@@ -1,13 +1,24 @@
 {
   "name": "financial-technologies",
-  "type":"module",
+  "type": "module",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohith13211/mru26a.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/Mohith13211/mru26a/issues"
+  },
+  "homepage": "https://github.com/Mohith13211/mru26a#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
